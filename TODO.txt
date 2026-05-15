@@ -1,0 +1,9 @@
+pykx
+groupby
+xgroup
+check devansh on q kdb questions
+
+moving window
+cross sectional
+
+how to read different files
