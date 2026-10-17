@@ -1,0 +1,19 @@
+    'show
+  [0]  show "hello world"
+       ^
+  'show
+  [0]  show "hello world";
+       ^
+    'show
+  [0]  show 5;
+       ^
+  'show
+  [0]  show
+       ^
+  'show
+  [0]  show
+       ^
+  'type
+  [0]  1 + `hello
+         ^
+    
