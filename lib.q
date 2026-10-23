@@ -31,7 +31,6 @@
 // type_or: `local_time`exchange_time!`symbol`symbol;
 // t: .qt.read_csv [`:univ.csv; ","; type_or]
 
-\c 30 200
 tidy:{ssr/[;("\"~~";"~~\"");("";"")] $[","=first x;1_x;x]}
 strBrk:{y,(";" sv x),z}
 
